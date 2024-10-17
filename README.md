@@ -2,7 +2,8 @@
 A detailed overview of the specified libraries commonly used in machine learning and data analysis:
 
 
-1. Pandas
+1. Pandas (https://pandas.pydata.org/)
+   
 Overview: Pandas is a powerful data manipulation and analysis library for Python. It provides data structures like Series and DataFrame, which are essential for handling structured data.
 
 Key Features:
@@ -22,7 +23,8 @@ Supports reading from and writing to various file formats, including CSV, Excel,
 Use Cases: Pandas is widely used for data preprocessing, exploratory data analysis (EDA), and managing datasets before applying machine learning algorithms.
 
 
-2. Matplotlib
+2. Matplotlib (https://matplotlib.org/)
+   
 Overview: Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. It is highly customizable and integrates well with other libraries.
 
 Key Features:
@@ -41,7 +43,8 @@ Works seamlessly with NumPy and Pandas, allowing for quick visualization of data
 
 Use Cases: Matplotlib is essential for visualizing data distributions, trends, and relationships in datasets, making it a staple for EDA.
 
-3. NumPy
+
+3. NumPy (https://numpy.org/)   
 
    Overview: NumPy is the foundational library for numerical computing in Python. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays.
 
@@ -61,7 +64,8 @@ Forms the basis for many other libraries, including Pandas and SciPy, making it 
 
 Use Cases: NumPy is used for numerical computations, data manipulation, and as a backbone for other libraries that require efficient array operations.
 
-4. Seaborn
+
+4. Seaborn (https://seaborn.pydata.org/)
 
    Overview: Seaborn is a statistical data visualization library built on top of Matplotlib. It simplifies the process of creating informative and attractive statistical graphics.
 
